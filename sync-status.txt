@@ -1,0 +1,14 @@
+cfnb 同步状态 · 2026-11-06 12:22:31
+结果：同步失败
+
+推送的文件：
+  asia.txt  11 个节点
+  ai.txt  10 个节点
+  合计 21 个节点
+
+mihomo（OpenWrt）：
+  地址：http://10.10.10.251:9090
+  provider：FFF
+  刷新：第 5 次 → 404（失败）
+  provider 内节点数：未知（存活 未知）
+  备注：查询失败：HTTP Error 404: Not Found
